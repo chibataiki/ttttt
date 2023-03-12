@@ -3,7 +3,8 @@ https://www.qq.com
 http://101.35.98.145/  
 
 http://101.35.98.145:8000/1.txt  
-file://../../../../../../../../etc/passwd 
+
+<a href="url">file://../../../../../../../../etc/passwd </a>  
 
 https://101.35.98.145/  
 https://101.35.98.145/em.apk  
