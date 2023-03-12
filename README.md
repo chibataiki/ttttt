@@ -8,9 +8,9 @@ http://101.35.98.145:8000/24.html
 http://101.35.98.145:8000/CVE-2017-5116.html  
 http://101.35.98.145:8000/v.html  
 
-<a href="url">geo:// </a>  
+<a href="url">geo://baidu.com </a>  
 <a href="url">tel://11111111 </a>  
-<a href="url">market:// </a>  
+<a href="url">market://baidu.com </a>  
 <a href="url">mailto://a.qq.com</a>  
 <a href="url">sms://111111111 </a>  
 <a href="url">asset:// </a>  
