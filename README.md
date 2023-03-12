@@ -3,6 +3,24 @@ https://www.qq.com
 http://101.35.98.145/  
 
 http://101.35.98.145:8000/1.txt  
+http://101.35.98.145:8000/   
+http://101.35.98.145:8000/24.html  
+http://101.35.98.145:8000/CVE-2017-5116.html  
+http://101.35.98.145:8000/v.html  
+
+<a href="url">geo: </a>  
+<a href="url">tel:// </a>  
+<a href="url">market: </a>  
+<a href="url">mailto: </a>  
+<a href="url">sms: </a>  
+<a href="url">asset:// </a>  
+<a href="url">android.resource://  </a>  
+<a href="url">content://  </a>  
+
+
+
+
+
 
 
 <a href="url">file://sdcard/ </a>  
